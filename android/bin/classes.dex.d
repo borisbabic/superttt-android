@@ -1,0 +1,25 @@
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes.dex : \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/R$layout.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/R$string.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/R.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/BuildConfig.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/R$attr.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/example/SuperTTT_android/R$array.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/dexedLibs/--Managed_by_Qt_Creator--QtAndroid-bundled-63a4283f0cd48cf1482ad2b50219c836.jar \

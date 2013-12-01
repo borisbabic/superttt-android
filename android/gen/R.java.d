@@ -1,0 +1,24 @@
+/home/boris/UbuntuSdk/SuperTTT-android/android/gen/org/qtproject/example/SuperTTT_android/R.java \
+ : /home/boris/UbuntuSdk/SuperTTT-android/android/res/values-de/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-ro/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-rs/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-fa/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-ms/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-nb/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/layout/splash.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-id/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-ru/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-el/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values/libs.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-pl/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-nl/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-es/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-pt-rBR/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-zh-rCN/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-it/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-fr/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-ja/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-et/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/res/values-zh-rTW/strings.xml \
+/home/boris/UbuntuSdk/SuperTTT-android/android/bin/AndroidManifest.xml \
