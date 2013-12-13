@@ -1,0 +1,3 @@
+[submodule "qml/SuperTTT-android/core"]
+	path = qml/SuperTTT-android/core
+	url = https://github.com/borisbabic/superttt-core.git
